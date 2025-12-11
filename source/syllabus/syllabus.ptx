@@ -5,15 +5,21 @@
 
   <introduction>
     <p>
-      Welcome to what promises to be an exciting and fun semester of ...
+      Welcome to what promises to be an exciting and fun semester of Theory of Justice: Law and Order
     </p>
+
+  <p>
+    Yes, I said fun!
+  </p>
+    
+  </p>
   </introduction>
   <!-- Include chapters -->
   <subsection xml:id="sec-course-info">
     <title>Course Information</title>
 
     <p>
-      This is the syllabus for <term>course name (MATH xxx, section xxx)</term> for semester 20xx.
+      This is the syllabus for <term>course name (POSC 211)</term> for semester 20xx.
       It is a x credit course.
       <dl>
       <li>
